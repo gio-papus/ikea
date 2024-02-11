@@ -1,3 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.all-screen{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(251, 255, 0);
+    position:absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
 .log-in-div{
 
     width: 20rem;
